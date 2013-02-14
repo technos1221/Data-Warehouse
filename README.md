@@ -1,4 +1,0 @@
-Data-Warehouse
-==============
-
-Data Science
